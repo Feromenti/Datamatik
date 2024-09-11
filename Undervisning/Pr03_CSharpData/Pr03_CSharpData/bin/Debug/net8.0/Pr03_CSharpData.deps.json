@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pr03_CSharpData/1.0.0": {
+        "runtime": {
+          "Pr03_CSharpData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr03_CSharpData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

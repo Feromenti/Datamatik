@@ -1,0 +1,15 @@
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\bin\Debug\net8.0\Pr03_CSharpData.exe
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\bin\Debug\net8.0\Pr03_CSharpData.deps.json
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\bin\Debug\net8.0\Pr03_CSharpData.runtimeconfig.json
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\bin\Debug\net8.0\Pr03_CSharpData.dll
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\bin\Debug\net8.0\Pr03_CSharpData.pdb
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.AssemblyInfoInputs.cache
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.AssemblyInfo.cs
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.csproj.CoreCompileInputs.cache
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.sourcelink.json
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.dll
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\refint\Pr03_CSharpData.dll
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.pdb
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\Pr03_CSharpData.genruntimeconfig.cache
+D:\Datamatik\Undervisning\Pr03_CSharpData\Pr03_CSharpData\obj\Debug\net8.0\ref\Pr03_CSharpData.dll
