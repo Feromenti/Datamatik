@@ -13,6 +13,10 @@ class Program
             Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
             userInput = Console.ReadLine();
 
+            if (userInput == "done")
+            {
+                break;
+            }
             // spørger efter breden
             Console.WriteLine("Input width");
             double width = Convert.ToDouble(Console.ReadLine());
@@ -36,6 +40,15 @@ class Program
         // opgave 3.2 / 3.3
         while (userInput.ToLower() != "done")
         {
+
+            // giver mulighed hat skipe opgaven ( virker ikke ;/ )
+            Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
+            userInput = Console.ReadLine();
+
+            if (userInput == "done")
+            {
+                break;
+            }
 
             //Laver et String array der gemmer det første tupel 
             Console.WriteLine("Enter the first tuple in the format: x1, y1:");
@@ -69,6 +82,16 @@ class Program
         // opgave 4.1
         while (userInput.ToLower() != "done")
         {
+
+            // giver mulighed hat skipe opgaven ( virker ikke ;/ )
+            Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
+            userInput = Console.ReadLine();
+
+            if (userInput == "done")
+            {
+                break;
+            }
+
             //indlæser stringen
             Console.WriteLine("\nWrite a Random sentence");
             string randomString = Console.ReadLine();
