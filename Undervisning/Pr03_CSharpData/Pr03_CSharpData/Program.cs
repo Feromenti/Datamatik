@@ -6,7 +6,7 @@ class Program
     {
         string userInput = "";
         
-        
+        //opgave 3.1
         while (userInput.ToLower() != "done" )
         {   
             // giver mulighed hat skipe opgaven ( virker ikke ;/ )
@@ -33,7 +33,7 @@ class Program
 
         userInput = "";
 
-
+        // opgave 3.2 / 3.3
         while (userInput.ToLower() != "done")
         {
 
@@ -65,7 +65,8 @@ class Program
         }
 
         userInput = "";
-
+        
+        // opgave 4.1
         while (userInput.ToLower() != "done")
         {
             //indlæser stringen
