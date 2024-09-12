@@ -9,8 +9,8 @@ class Program
         //opgave 3.1
         while (userInput.ToLower() != "done" )
         {   
-            // giver mulighed hat skipe opgaven ( virker ikke ;/ )
-            Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
+            // giver mulighed hat skipe opgaven
+            Console.WriteLine("Write 'done' to skip task 3.1\n" + "press any button to continue");
             userInput = Console.ReadLine();
 
             if (userInput == "done")
@@ -28,7 +28,7 @@ class Program
             //giver arealet ud til consolen
             Console.WriteLine("your answer is:\n" + (width * length));
 
-            // spørger om du vil beregne et andet areal eller gå til næste opgave
+            // giver mulighed til afslute med opgaven eller gentage den
             Console.WriteLine("\nWrite 'done' if you´re done");
             Console.WriteLine("else press enter\n");
             userInput = Console.ReadLine();
@@ -41,8 +41,8 @@ class Program
         while (userInput.ToLower() != "done")
         {
 
-            // giver mulighed hat skipe opgaven ( virker ikke ;/ )
-            Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
+            // giver mulighed hat skipe opgaven
+            Console.WriteLine("Write 'done' to skip task 3.2/3.3\n" + "press any button to continue");
             userInput = Console.ReadLine();
 
             if (userInput == "done")
@@ -70,7 +70,7 @@ class Program
             double slope = (y2 - y1) / (x2 - x1);
             Console.WriteLine($"The slope of the line segment is: {slope}");
 
-            // giver mulighed til afslute med opgaven eller gentage regningen
+            // giver mulighed til afslute med opgaven eller gentage den
             Console.WriteLine("\nWrite 'done' if you´re done");
             Console.WriteLine("else press enter\n");
             userInput = Console.ReadLine();
@@ -83,8 +83,8 @@ class Program
         while (userInput.ToLower() != "done")
         {
 
-            // giver mulighed hat skipe opgaven ( virker ikke ;/ )
-            Console.WriteLine("Write 'done' to skip task\n" + "press any button to continue");
+            // giver mulighed hat skipe opgaven
+            Console.WriteLine("Write 'done' to skip task 4.1\n" + "press any button to continue");
             userInput = Console.ReadLine();
 
             if (userInput == "done")
@@ -100,7 +100,7 @@ class Program
             Console.WriteLine("\nyou string has a lenght of:\n");
             Console.WriteLine(randomString.Length);
 
-            // giver mulighed til afslute med opgaven eller gentage regningen
+            // giver mulighed til afslute med opgaven eller gentage den
             Console.WriteLine("\nWrite 'done' if you´re done");
             Console.WriteLine("else press enter\n");
             userInput = Console.ReadLine();
