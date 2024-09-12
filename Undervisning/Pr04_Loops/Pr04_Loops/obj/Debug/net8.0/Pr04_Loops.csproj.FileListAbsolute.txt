@@ -1,0 +1,14 @@
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\bin\Debug\net8.0\Pr04_Loops.exe
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\bin\Debug\net8.0\Pr04_Loops.deps.json
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\bin\Debug\net8.0\Pr04_Loops.runtimeconfig.json
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\bin\Debug\net8.0\Pr04_Loops.dll
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\bin\Debug\net8.0\Pr04_Loops.pdb
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.AssemblyInfo.cs
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.dll
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\refint\Pr04_Loops.dll
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.pdb
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\Pr04_Loops.genruntimeconfig.cache
+C:\Users\julie\source\repos\Pr04_Loops\Pr04_Loops\obj\Debug\net8.0\ref\Pr04_Loops.dll
