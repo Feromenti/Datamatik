@@ -4,8 +4,7 @@ class Programm
 {
     static void Main(string[] args)
     {
-        bool running = true;
-        string userInput;
+        bool running = true;        
         bool firstStart = true;
 
         while (running)
@@ -66,7 +65,9 @@ class Programm
                 """);
             double y = Convert.ToDouble(Console.ReadLine());
 
-            var calc = new calculator().Calculator(x, a, y);            
+            var calc = new Calculator().calculation(x, a, y);
+
+            Console.Clear();
 
             Console.WriteLine(
                 $"""
@@ -81,13 +82,13 @@ class Programm
                 Are you done?
 
                 Write 'done' if you´re done
-                else press any button.
+                else press any button to continue.
                 
                 """);
 
             if (Console.ReadLine() == "done")
             {
-                running = false;
+                running = false;                
             }
 
             Console.Clear();
@@ -95,9 +96,9 @@ class Programm
     }        
 }
 
-class calculator
+public class Calculator
 {
-    public double Calculator(double x, char a, double y)
+    public double calculation(double x, char a, double y)
     {
         switch (a)
         {
