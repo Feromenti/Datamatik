@@ -2,63 +2,57 @@
 
 class Programm
 {
-
-    static void Main (string[]args)
+    static void Main(string[] args)
     {
-
         bool running = true;
         string userInput;
         bool firstStart = true;
 
         while (running)
         {
-            
-
             if (firstStart)
             {
-                    Console.WriteLine("""
+                Console.WriteLine(
+                    """
 
-                Welcome to the best calculator in the world.
+                    Welcome to the best calculator in the world.
             
-                are you ready to start?
+                    are you ready to start?
 
-                1 = end
-                2 = any button to continue
-
-
+                    1 = end
+                    any button to continue
 
                 """);
 
-                
                 firstStart = false;
             }
             userInput = Console.ReadLine();
+
             if (userInput == "1")
             {
-                running = false;            
+                running = false;
+                continue;
             }
 
-            Console.WriteLine("""
+            Console.Clear();
+
+            Console.WriteLine(
+                """
 
                 whats your math problem?
 
                 possible operator ( +, -, *, /)
 
-                use this format:
-                
-                x operator y         
-
-
-                """);
-
+                """);           
 
             Console.WriteLine("""
                 Input a value
                 """);
+
             double x = Convert.ToDouble(Console.ReadLine());
 
-
-            Console.WriteLine("""
+            Console.WriteLine(
+                """
 
                 Choose an operator:
 
@@ -67,62 +61,57 @@ class Programm
                 """);
             char a = Convert.ToChar(Console.ReadLine());
 
-            Console.WriteLine("""
+            Console.WriteLine(
+                """
                 Input a value
                 """);
             double y = Convert.ToDouble(Console.ReadLine());
 
-            var calc = Calculator(x,a,y);
+            var calc = new calculator().Calculator(x, a, y);            
 
-            Console.WriteLine($"""
+            Console.WriteLine(
+                $"""
 
                 The answer is {calc}
 
                 """);
+
+            Console.WriteLine(
+                """
+
+                Are you done?
+
+                Write 'done' if you´re done
+                else press any button.
+                
+                """);
+
+            if (Console.ReadLine() == "done")
+            {
+                running = false;
+            }
+
+            Console.Clear();
         }
-    }
+    }        
+}
 
-
-
-    static public double Calculator(double x, char a, double y) 
-    
+class calculator
+{
+    public double Calculator(double x, char a, double y)
     {
-
-        x = x;
-        y = y;      
-
-        
-        
-        switch(a)
+        switch (a)
         {
-
             case '+':
-
                 return x + y;
-
-                
-
             case '-':
-
                 return x - y;
-
-                
-
             case '*':
-
                 return x * y;
-
-               
-
             case '/':
-
                 return x / y;
-
-                
+            default:
+                return 0;
         }
-
-
-        return 0;
-        
     }
 }
