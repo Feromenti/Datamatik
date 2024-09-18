@@ -25,10 +25,9 @@ class Programm
                 """);
 
                 firstStart = false;
-            }
-            userInput = Console.ReadLine();
+            }            
 
-            if (userInput == "1")
+            if ( Console.ReadLine() == "1")
             {
                 running = false;
                 continue;
