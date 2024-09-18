@@ -1,0 +1,14 @@
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.AssemblyInfoInputs.cache
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.AssemblyInfo.cs
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.csproj.CoreCompileInputs.cache
+C:\Users\julie\source\repos\Hydac\Hydac\bin\Debug\net8.0\Hydac.exe
+C:\Users\julie\source\repos\Hydac\Hydac\bin\Debug\net8.0\Hydac.deps.json
+C:\Users\julie\source\repos\Hydac\Hydac\bin\Debug\net8.0\Hydac.runtimeconfig.json
+C:\Users\julie\source\repos\Hydac\Hydac\bin\Debug\net8.0\Hydac.dll
+C:\Users\julie\source\repos\Hydac\Hydac\bin\Debug\net8.0\Hydac.pdb
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.dll
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\refint\Hydac.dll
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.pdb
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\Hydac.genruntimeconfig.cache
+C:\Users\julie\source\repos\Hydac\Hydac\obj\Debug\net8.0\ref\Hydac.dll
