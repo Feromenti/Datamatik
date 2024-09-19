@@ -1,117 +1,121 @@
-﻿using System.Numerics;
-
-class Programm
+﻿    using System.Numerics;
+namespace lommeregner
 {
-    static void Main(string[] args)
+    class Programm
     {
-        bool running = true;        
-        bool firstStart = true;
-
-        while (running)
+        static void Main(string[] args)
         {
-            if (firstStart)
+            bool running = true;
+            bool firstStart = true;
+
+            while (running)
             {
+                if (firstStart)
+                {
+                    Console.WriteLine(
+                        """
+
+                        Welcome to the best calculator in the world.
+            
+                        are you ready to start?
+
+                        1 = end
+                        any button to continue
+
+                    """);
+
+                    firstStart = false;
+                }
+
+                if (Console.ReadLine() == "1")
+                {
+                    running = false;
+                    continue;
+                }
+
+                Console.Clear();
+
                 Console.WriteLine(
                     """
 
-                    Welcome to the best calculator in the world.
-            
-                    are you ready to start?
+                    whats your math problem?
 
-                    1 = end
-                    any button to continue
+                    possible operator ( +, -, *, /)
 
-                """);
+                    """);
 
-                firstStart = false;
-            }            
+                Console.WriteLine("""
+                    Input a value
+                    """);
 
-            if ( Console.ReadLine() == "1")
-            {
-                running = false;
-                continue;
-            }
+                double x = Convert.ToDouble(Console.ReadLine());
 
-            Console.Clear();
+                Console.WriteLine(
+                    """
 
-            Console.WriteLine(
-                """
+                    Choose an operator:
 
-                whats your math problem?
+                    +, -, *, eller /
 
-                possible operator ( +, -, *, /)
+                    """);
+                char a = Convert.ToChar(Console.ReadLine());
 
-                """);           
+                Console.WriteLine(
+                    """
 
-            Console.WriteLine("""
-                Input a value
-                """);
+                    Input a value
 
-            double x = Convert.ToDouble(Console.ReadLine());
+                    """);
+                double y = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine(
-                """
+                var calc = new Calculator().calculation(x, a, y);
 
-                Choose an operator:
+                Console.Clear();
 
-                +, -, *, eller /
+                Console.WriteLine(
+                    $"""
 
-                """);
-            char a = Convert.ToChar(Console.ReadLine());
+                    The answer is {calc}
 
-            Console.WriteLine(
-                """
-                Input a value
-                """);
-            double y = Convert.ToDouble(Console.ReadLine());
+                    """);
 
-            var calc = new Calculator().calculation(x, a, y);
+                Console.WriteLine(
+                    """
 
-            Console.Clear();
+                    Are you done?
 
-            Console.WriteLine(
-                $"""
-
-                The answer is {calc}
-
-                """);
-
-            Console.WriteLine(
-                """
-
-                Are you done?
-
-                Write 'done' if you´re done
-                else press any button to continue.
+                    Write 'done' if you´re done
+                    else press any button to continue.
                 
-                """);
+                    """);
 
-            if (Console.ReadLine() == "done")
-            {
-                running = false;                
+                if (Console.ReadLine() == "done")
+                {
+                    running = false;
+                }
+
+                Console.Clear();
             }
-
-            Console.Clear();
         }
-    }        
-}
+    }
 
-public class Calculator
-{
-    public double calculation(double x, char a, double y)
+    public class Calculator
     {
-        switch (a)
+        public double calculation(double x, char a, double y)
         {
-            case '+':
-                return x + y;
-            case '-':
-                return x - y;
-            case '*':
-                return x * y;
-            case '/':
-                return x / y;
-            default:
-                return 0;
+            switch (a)
+            {
+                case '+':
+                    return x + y;
+                case '-':
+                    return x - y;
+                case '*':
+                    return x * y;
+                case '/':
+                    return x / y;
+                default:
+                    return 0;
+            }
         }
     }
 }

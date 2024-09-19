@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3550858-C947-47CD-84C5-572CE7D7496D}|Pr_05 Methods\\Pr_05 Methods.csproj|d:\\datamatik\\undervisning\\pr_05 methods\\pr_05 methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3550858-C947-47CD-84C5-572CE7D7496D}|Pr_05 Methods\\Pr_05 Methods.csproj|solutionrelative:pr_05 methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{146757A8-36DD-422B-8AA7-73C204FD9191}|..\\..\\..\\VS msTest\\CalculatorTest\\CalculatorTest.csproj|d:\\vs mstest\\calculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\VS msTest\\CalculatorTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\VS msTest\\CalculatorTest\\UnitTest1.cs",
-              "ToolTip": "D:\\VS msTest\\CalculatorTest\\UnitTest1.cs",
-              "RelativeToolTip": "..\\..\\..\\VS msTest\\CalculatorTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T07:49:34.608Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "Pr_05 Methods\\Program.cs",
               "ToolTip": "D:\\Datamatik\\Undervisning\\Pr_05 Methods\\Pr_05 Methods\\Program.cs",
               "RelativeToolTip": "Pr_05 Methods\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwHQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T08:59:28.752Z",
               "EditorCaption": ""

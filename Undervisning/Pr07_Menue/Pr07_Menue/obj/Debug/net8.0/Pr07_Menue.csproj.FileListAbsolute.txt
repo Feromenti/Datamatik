@@ -1,0 +1,15 @@
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.AssemblyInfoInputs.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.AssemblyInfo.cs
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.csproj.CoreCompileInputs.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.sourcelink.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Pr07_Menue.exe
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Pr07_Menue.deps.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Pr07_Menue.runtimeconfig.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Pr07_Menue.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Pr07_Menue.pdb
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\refint\Pr07_Menue.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.pdb
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Pr07_Menue.genruntimeconfig.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\ref\Pr07_Menue.dll

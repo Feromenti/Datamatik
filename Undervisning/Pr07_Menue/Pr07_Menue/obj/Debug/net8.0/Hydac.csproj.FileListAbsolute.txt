@@ -1,0 +1,15 @@
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Hydac.exe
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Hydac.deps.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Hydac.runtimeconfig.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Hydac.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\bin\Debug\net8.0\Hydac.pdb
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.AssemblyInfoInputs.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.AssemblyInfo.cs
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.csproj.CoreCompileInputs.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.sourcelink.json
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\refint\Hydac.dll
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.pdb
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\Hydac.genruntimeconfig.cache
+D:\Datamatik\Undervisning\Pr07_Menue\Pr07_Menue\obj\Debug\net8.0\ref\Hydac.dll

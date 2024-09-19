@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julie\\source\\repos\\Hydac\\Hydac\\Hydac.csproj",
+      "projectUniqueName": "D:\\Datamatik\\Projekter\\Hydac\\Hydac\\Hydac.csproj",
       "projectName": "Hydac",
-      "projectPath": "C:\\Users\\julie\\source\\repos\\Hydac\\Hydac\\Hydac.csproj",
+      "projectPath": "D:\\Datamatik\\Projekter\\Hydac\\Hydac\\Hydac.csproj",
       "packagesPath": "C:\\Users\\julie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julie\\source\\repos\\Hydac\\Hydac\\obj\\",
+      "outputPath": "D:\\Datamatik\\Projekter\\Hydac\\Hydac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
