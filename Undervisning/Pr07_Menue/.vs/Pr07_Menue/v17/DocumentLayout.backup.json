@@ -30,24 +30,11 @@
               "Title": "Main.cs",
               "DocumentMoniker": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Main.cs",
               "RelativeDocumentMoniker": "Pr07_Menue\\Main.cs",
-              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Main.cs",
-              "RelativeToolTip": "Pr07_Menue\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Main.cs*",
+              "RelativeToolTip": "Pr07_Menue\\Main.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T10:37:27.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\MenuItem.cs",
-              "RelativeDocumentMoniker": "Pr07_Menue\\MenuItem.cs",
-              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\MenuItem.cs*",
-              "RelativeToolTip": "Pr07_Menue\\MenuItem.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T08:12:25.802Z",
               "EditorCaption": ""
             }
           ]
@@ -62,11 +49,24 @@
               "Title": "Menu.cs",
               "DocumentMoniker": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Menu.cs",
               "RelativeDocumentMoniker": "Pr07_Menue\\Menu.cs",
-              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Menu.cs*",
-              "RelativeToolTip": "Pr07_Menue\\Menu.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\Menu.cs",
+              "RelativeToolTip": "Pr07_Menue\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:11:35.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Pr07_Menue\\MenuItem.cs",
+              "ToolTip": "D:\\Datamatik\\Undervisning\\Pr07_Menue\\Pr07_Menue\\MenuItem.cs",
+              "RelativeToolTip": "Pr07_Menue\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T08:12:25.802Z",
               "EditorCaption": ""
             }
           ]

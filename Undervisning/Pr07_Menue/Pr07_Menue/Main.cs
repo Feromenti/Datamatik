@@ -11,7 +11,8 @@ class MainProgram
         mainMenu.AddMenuItem(itemTitle);        
 
         mainMenu.Show();
-
-        Console.ReadLine();
     }
+
+
+
 }

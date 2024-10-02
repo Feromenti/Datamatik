@@ -1,0 +1,15 @@
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfoInputs.cache
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.AssemblyInfo.cs
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.csproj.CoreCompileInputs.cache
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.sourcelink.json
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\bin\Debug\net8.0\Persistens.exe
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\bin\Debug\net8.0\Persistens.deps.json
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\bin\Debug\net8.0\Persistens.runtimeconfig.json
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\bin\Debug\net8.0\Persistens.dll
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\bin\Debug\net8.0\Persistens.pdb
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.dll
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\refint\Persistens.dll
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.pdb
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\Persistens.genruntimeconfig.cache
+D:\Datamatik\Undervisning\Persistens\Persistens\Persistens\obj\Debug\net8.0\ref\Persistens.dll

@@ -2,14 +2,16 @@
 
 public class Menu
 {
-    public string Title;
+    public string Title;    
+    private MenuItem[] MenuItems;
     private int ItemCount = 0;
-    private MenuItem[] MenuItems = new MenuItem[25];
 
     // Det her er en constructor
     public Menu(string menuTitle) 
     {   
-        Title = menuTitle;        
+        Title = menuTitle;
+        MenuItems = new MenuItem[10];
+        MenuItem[] menuItems = MenuItems;
     }
     public void Show()
     {
@@ -32,31 +34,19 @@ public class Menu
         ItemCount++;
     }
 
-    public string SelectMenuItem(int i)
+    public int SelectMenuItem()
     {
-        
-        switch (i)
+        bool running = true;
+        while (running)
         {
-            case 1:
-                string menuItem = "Gøt dit";
-                return menuItem;
-            case 2:
-                string menuItem2 = "Gør dat";
-                return menuItem2;
-            case 3:
-                string menuItem3 = "Gør noget";
-                return menuItem3;
-            case 4:
-                string menuItem4 = "Få svaret på livet, universet og alting";
-                return menuItem4;
+            int input = int.Parse(Console.ReadLine());        
 
-            default:
-                return "";
-
-
-
-
+                if (input <= ItemCount && input != 0)
+                {
+                    return input;                    
+                }
+            running = false; 
         }
-
+        return 0;
     }
 }

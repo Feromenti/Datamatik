@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hydac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b1ebcb914bb427ef2bb55aedf275c4191127c34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5b8fe78f162ccccc2fcd6888110bea44d333ee7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hydac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hydac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

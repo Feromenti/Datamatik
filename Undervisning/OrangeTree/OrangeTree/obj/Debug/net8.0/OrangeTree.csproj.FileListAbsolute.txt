@@ -1,0 +1,15 @@
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.AssemblyInfoInputs.cache
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.AssemblyInfo.cs
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.csproj.CoreCompileInputs.cache
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.sourcelink.json
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\bin\Debug\net8.0\OrangeTree.exe
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\bin\Debug\net8.0\OrangeTree.deps.json
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\bin\Debug\net8.0\OrangeTree.runtimeconfig.json
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\bin\Debug\net8.0\OrangeTree.dll
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\bin\Debug\net8.0\OrangeTree.pdb
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.dll
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\refint\OrangeTree.dll
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.pdb
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\OrangeTree.genruntimeconfig.cache
+D:\Datamatik\Undervisning\OrangeTree\OrangeTree\obj\Debug\net8.0\ref\OrangeTree.dll
