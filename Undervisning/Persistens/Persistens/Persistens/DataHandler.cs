@@ -2,11 +2,16 @@
 {
     public class DataHandler
     {
-        public string DataFileName { get; }
+        private string dataFileName { get; }
 
-        public DataHandler(string dataFileName)
+        public string DataFileName
         {
-            DataFileName = dataFileName;
+            get {return dataFileName;}
+        }
+
+        public DataHandler(string DataFileName)
+        {
+            dataFileName = DataFileName;
         }
         public void SavePerson(Person person)
         {

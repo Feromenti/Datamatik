@@ -4,23 +4,21 @@ public class Person
 {
     private string name;
     private DateTime birthDate;
-    private double height;
-    private bool isMarried;
+    private double height;  
+    private bool isMarried; 
     private int noOfChildren;
-
 
     public string Name
     {
-        get { return name; } 
+        get { return name; }
     }
-
     public DateTime BirthDate
     {
-        get { return birthDate; } 
+        get { return birthDate; }
     }
     public double Height
     {
-        get { return height; }    
+        get { return height; }
     }
     public bool IsMarried
     {
@@ -30,7 +28,6 @@ public class Person
     {
         get { return noOfChildren; }
     }
-
 
     public Person(string name, DateTime birthTime, double height, bool isMarried, int noOfChildren)
     {
@@ -42,8 +39,9 @@ public class Person
     }
     public string MakeTitle()
     {
-        
+
         string titel = $"{name};{birthDate.ToString("dd-MM-yyyy HH':'mm':'ss")};{height};{isMarried};{noOfChildren}";
         return titel;
     }
+
 }
